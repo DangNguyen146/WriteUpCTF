@@ -1,5 +1,5 @@
 #### WriteUp TSGCTF! 
-###### Challenges Welcome to TSG CTF!
+### Challenges Welcome to TSG CTF!
 Link: http://34.84.69.72:34705/
 Khi vào trang web và đọc source ta thấy web sài giao thức POST nên quyết định sài Postman test thử
 ![image](https://user-images.githubusercontent.com/62945136/135751408-31bcee39-0ca3-46fb-ab30-f39c3edb4827.png)
